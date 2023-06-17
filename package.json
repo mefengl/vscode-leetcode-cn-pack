@@ -2,7 +2,7 @@
   "name": "vscode-leetcode-cn-pack",
   "displayName": "LeetCode CN Pack",
   "description": "This is for my personal use, with some language plugins that are only used when solving problems.",
-  "icon": "res/icon.png",
+  "icon": "res/logo.png",
   "author": "mefengl",
   "publisher": "mefengl",
   "repository": "https://github.com/mefengl/vscode-leetcode-cn-pack",

@@ -2,7 +2,7 @@
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.3] - 2023-06-18
+## [0.0.4] - 2023-06-18
 
 ### Changed
 

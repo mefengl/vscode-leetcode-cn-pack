@@ -6,7 +6,7 @@
   "author": "mefengl",
   "publisher": "mefengl",
   "repository": "https://github.com/mefengl/vscode-leetcode-cn-pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "private": true,
   "engines": {
@@ -17,15 +17,11 @@
   ],
   "extensionPack": [
     "labuladong.leetcode-helper",
-
     "ms-vscode.cpptools",
     "vadimcn.vscode-lldb",
-
     "sswg.swift-lang",
-
     "rebornix.ruby",
     "wingrunr21.vscode-ruby",
-
     "scala-lang.scala"
   ]
 }

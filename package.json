@@ -15,11 +15,17 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "labuladong.leetcode-helper",
+
     "ms-vscode.cpptools",
+    "vadimcn.vscode-lldb",
+
     "sswg.swift-lang",
+
     "rebornix.ruby",
+    "wingrunr21.vscode-ruby",
+
     "scala-lang.scala"
   ]
 }

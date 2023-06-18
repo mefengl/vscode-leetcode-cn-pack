@@ -22,6 +22,7 @@
     "sswg.swift-lang",
     "rebornix.ruby",
     "wingrunr21.vscode-ruby",
-    "scala-lang.scala"
+    "scala-lang.scala",
+    "rust-lang.rust-analyzer"
   ]
 }

@@ -2,6 +2,12 @@
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.6] - 2023-06-18
+
+### Changed
+
+- Updated Ruby extension.
+
 ## [0.0.5] - 2023-06-18
 
 ### Changed

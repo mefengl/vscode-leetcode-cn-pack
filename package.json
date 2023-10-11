@@ -20,8 +20,7 @@
     "ms-vscode.cpptools",
     "vadimcn.vscode-lldb",
     "sswg.swift-lang",
-    "rebornix.ruby",
-    "wingrunr21.vscode-ruby",
+    "Shopify.ruby-lsp",
     "scala-lang.scala",
     "rust-lang.rust-analyzer"
   ]
